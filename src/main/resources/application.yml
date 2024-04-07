@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: 'springsecuritybasic'
+  security:
+    user:
+      name: 'eazybytes'
+      password: '12345'
