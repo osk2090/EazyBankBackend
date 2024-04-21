@@ -1,11 +1,3 @@
-spring:
-  application:
-    name: 'springsecuritybasic'
-  security:
-    user:
-      name: 'eazybytes'
-      password: '12345'
-
 logging:
   level:
     org:
